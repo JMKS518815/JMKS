@@ -5,4 +5,5 @@ aaaaaaaaaaaaaa
 yyyyyyyy.
 git thacks change of text
 Creating a new branch is quick
-Creating a new branch is quick AND simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
